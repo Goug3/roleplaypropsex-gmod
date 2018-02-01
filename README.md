@@ -1,4 +1,4 @@
-# Addon Garry's Mod Role Play Props Extanded
+# Addon Garry's Mod Role Play Props Extended
 Disponible sur steam : http://steamcommunity.com/sharedfiles/filedetails/?id=1246554779
 
 Voici la nouvelle version du célèbre pack d'objets réalistes "Roleplay props". Cette version a été construite pour et par la communauté, n'étant pas le créateur initiale de ce projet que je n'ai qu'enrichie. 
